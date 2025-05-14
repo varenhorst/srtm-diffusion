@@ -12,3 +12,4 @@ Diffusion Model aimed at generating natural elevation maps. Trained on SRTM Data
 
 
 ![generated_heightmaps (1)](https://github.com/user-attachments/assets/df7b2338-1697-42d2-9085-4ad4c54d87eb)
+![image](https://github.com/user-attachments/assets/1bb5ce4e-831c-4442-aa20-e30ce2d4714f)
