@@ -1,5 +1,5 @@
 # srtm-diffusion
-Diffusion Model aimed at generating natural elevation maps
+Diffusion Model aimed at generating natural elevation maps. Trained on SRTM Data of the Earth's surface.
 
 **generate.py**
 *Generates the terrain data. Modify the LAT / LON Values to change the area
