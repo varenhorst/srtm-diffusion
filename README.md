@@ -1,2 +1,11 @@
 # srtm-diffusion
 Diffusion Model aimed at generating natural elevation maps
+
+**generate.py**
+*Generates the terrain data. Modify the LAT / LON Values to change the area
+
+**train.py**
+*Trains the diffusion model with the photos generated above. 
+
+**sample.py**
+*Generates a smaple image, and a gif showing a samples creation.
