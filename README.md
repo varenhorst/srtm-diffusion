@@ -8,7 +8,7 @@ Diffusion Model aimed at generating natural elevation maps. Trained on SRTM Data
 *Trains the diffusion model with the photos generated above. 
 
 **sample.py**
-*Generates a smaple image, and a gif showing a samples creation.
+*Generates a sample image, and a gif showing a samples creation.
 
 
 ![generated_heightmaps (1)](https://github.com/user-attachments/assets/df7b2338-1697-42d2-9085-4ad4c54d87eb)
